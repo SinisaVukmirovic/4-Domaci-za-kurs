@@ -5,6 +5,7 @@ h1 {
 	font-size: 50px;
 	color: yellow;
 	letter-spacing: 25px;
+	font-family: 'Frijole', cursive;
 }
 
 ul {
@@ -15,6 +16,7 @@ li {
 	display: inline-block;
 	margin-top: 5px;
 	padding-right: 100px;
+	font-family: 'Crushed', cursive;
 }
 
 a {
@@ -48,8 +50,9 @@ i {
 }
 
 h3 {
+	font-family: verdana, sans-serif;
 	clear: both;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 hr { 
@@ -60,23 +63,28 @@ hr {
 } 
 
 p.izborvel {
-	font-size: 25px;
+	font-family: verdana, sans-serif;
+	font-size: 20px;
+	margin-bottom: 20px;
 }
 
 img {
 	float: right;
 	height: auto;
-	width: 55%;
+	width: 60%;
 }
 
 p.instr {
-	display: inline;
+	font-family: verdana, sans-serif;
+	display: inline-block;
 	font-size: 25px;
+	margin-bottom: 15px;
 }
 
 p {
+	font-family: verdana, sans-serif;
 	display: : inline-block;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 #nostyle {
